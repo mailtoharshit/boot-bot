@@ -1,0 +1,24 @@
+{
+  "name": "boot-bot",
+  "version": "1.0.0",
+  "description": "Your first bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailtoharshit/boot-bot.git"
+  },
+  "author": "Harshit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mailtoharshit/boot-bot/issues"
+  },
+  "homepage": "https://github.com/mailtoharshit/boot-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "nodemon": "^1.11.0",
+    "restify": "^5.2.0"
+  }
+}
